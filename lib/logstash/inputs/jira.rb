@@ -1,4 +1,3 @@
-# encoding: utf-8
 require "logstash/inputs/base"
 require 'logstash/plugin_mixins/http_client'
 require 'logstash/event'
