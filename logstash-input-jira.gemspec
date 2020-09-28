@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'rufus-scheduler', "~>3.0"
   s.add_runtime_dependency 'stud', '~> 0.0'
 
+  s.add_development_dependency 'jar-dependencies'
   s.add_development_dependency 'logstash-devutils', '~> 1.3'
   s.add_development_dependency 'logstash-codec-json', '~> 3.0'
 end
